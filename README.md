@@ -11,3 +11,5 @@ rafc
 import
 desc (pruebas con jest)
 yarn add -D whatwg-fetch
+snapshot cuando cambia, presiona "u" de update, para actualizar el snapshot
+npm install --save-dev @testing-library/react @testing-library/dom @types/react @types/react-dom
